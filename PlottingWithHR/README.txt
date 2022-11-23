@@ -1,6 +1,6 @@
 Before running the code, make sure you have all the neccessary python scripts in the same folder together with the txt files with the data you want to analyse. Then to run the code:
 
-1) Edit BEHR_DIR in HR_driver_const_counts.py with the directory path to where you have BEHR installed. If you don't have it yet, you can install it from: 
+1) Edit BEHR_DIR in HR_driver_const_counts.py with the directory path to where you have BEHR installed. If you don't have it yet, you can install it from: http://hea-www.harvard.edu/astrostat/behr/
 2) Open the terminal
 3) Run ciao
 4) Go to the directory with your data txt files and code scripts.
